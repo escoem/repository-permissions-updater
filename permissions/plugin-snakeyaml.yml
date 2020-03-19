@@ -5,3 +5,6 @@ paths:
 - "io/jenkins/plugins/snakeyaml"
 developers:
 - "escoem"
+security:
+  contacts:
+    jira: "escoem"
